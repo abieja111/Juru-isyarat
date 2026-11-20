@@ -1,2 +1,0 @@
-# Juru-isyarat
-A isyarat 
